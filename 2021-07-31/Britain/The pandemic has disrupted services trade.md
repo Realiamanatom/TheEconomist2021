@@ -1,0 +1,12 @@
+###### Doing a disservice
+# The pandemic has disrupted services trade 
+##### Even so, the costs of Brexit are visible in official data 
+![image](images/20210731_BRP503.jpg) 
+> Jul 31st 2021 
+MORE THAN half a year has passed since the end of the transition period in which Britain had left the EU, but remained in the single market. A good moment, then, to try to gauge the impact of Brexit on trade—in particular on services, where the exit deal offered few protections compared with those for trade in goods.
+One small complication arises, however: a global pandemic. A survey by the Office for National Statistics (ONS) carried out in June found that around four in ten firms trading in services reported that the end of the transition period had hit their business. Around three-quarters said the pandemic had.
+
+Still, the ONS has done its best to disentangle the effects of the two. A study published on July 27th compares exports and imports with the EU and those with the rest of the world. Those with the EU have fallen more. In the two years ending in March 2021 the share of all service exports accounted for by the EU fell by more than a percentage point, to 36.5%. The fall in the EU’s share of imports is more striking still: around nine percentage points, to 37.9%.
+Much of that fall in imports is accounted for by financial services. The British government had hoped to have signed a deal by now granting “equivalence”, that is, mutual recognition of regulatory standards in the sector. That would have made it easier to sell financial products originating in Britain in the EU, and vice versa. But no deal has yet been struck. Meanwhile business travel between Britain and the EU now requires a visa, and the export of services in professional areas such as law, accountancy, architecture and engineering has been hampered by the end of mutual recognition of qualifications.
+Complicating the ONS’s analysis is the fact that, before the pandemic, Britain’s services trade with the EU differed from that with the rest of the world. A service-provider such as an architect can sell designs without leaving the office or, alternatively, go on a road-show. In 2019 around 15% of services trade with the EU was of a sort that typically involves people travelling, compared with 11% of services trade with the rest of the world. That means trade in services with the EU was more vulnerable to the effect of travel restrictions. Overall, however—and hardly surprisingly—making trade more complicated does indeed seem to have reduced it. ■
+
